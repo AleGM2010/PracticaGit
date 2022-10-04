@@ -1,2 +1,3 @@
 Mensaje de Archivo 1
-Ahora tenes otro mensaje jiji
+Ahora hay algo nuevo en archivo 1
+
